@@ -6,12 +6,9 @@ With over 4 years of expertise in the Apparel & Textile industry, I combine adva
 👀 About Me
 
 🌱 Currently Learning: Completing my Master’s in Information Technology at the Kyoto College of Graduate Studies with a focus on AI-powered web applications and the future of digital experiences.
-
 💞️ Looking to Collaborate On: Projects in smart textiles, sustainable fashion tech, AI-driven forecasting, and data-driven applications.
-
-📫 Get in Touch: haruchira@gmail.com, www.linkedin.com/in/ruchira-madushan 
-
-😄 Pronouns: He/Him
+📫 Get in Touch: haruchira@gmail.com, www.linkedin.com/in/ruchira-madushan.
+😄 Pronouns: He/Him.
 
 ⚡ Fun Fact: I developed a Smart Cycling Jacket with embedded GPS, LED signals, and hand sensors for improved cyclist safety! 🚴💡
 
