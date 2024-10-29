@@ -1,19 +1,24 @@
 👋 Hi there! I’m @ruchirama (Ruchira Madushan)
 
-👔 Fabric Technologist | 📊 Data Analyst | 💻 Web Developer
-Bringing over 4 years of experience in the Apparel & Textile industry with a passion for AI, Data Analytics, and Digital Innovation. I’m driven by creating sustainable, tech-enhanced solutions that bridge the gap between physical and digital experiences.
+👔 Fabric Technologist | 📊 Data Analyst & Business Intelligence Enthusiast | 💻 Web Developer
+With over 4 years of expertise in the Apparel & Textile industry, I combine advanced skills in AI, Data Analytics, and Business Intelligence to drive innovation and efficiency in the fashion and manufacturing sectors. I’m passionate about creating sustainable, tech-driven solutions that optimize both digital and physical processes.
 
 👀 About Me
 
 🌱 Currently Learning: Completing my Master’s in Information Technology at the Kyoto College of Graduate Studies with a focus on AI-powered web applications and the future of digital experiences.
 💞️ Looking to Collaborate On: Projects in smart textiles, sustainable fashion tech, AI-driven forecasting, and data-driven applications.
-📫 Get in Touch: haruchira@gmail.com
+📫 Get in Touch: haruchira@gmail.com, www.linkedin.com/in/ruchira-madushan 
 😄 Pronouns: He/Him
 ⚡ Fun Fact: I developed a Smart Cycling Jacket with embedded GPS, LED signals, and hand sensors for improved cyclist safety! 🚴💡
+
 💼 Skills & Technologies
+
 Languages: 🐍 Python, 🐍 R, 💻 JavaScript, 📄 HTML, 🎨 CSS, 🛢️ SQL
+
 Web Development: ⚛️ React, ⚙️ Next.js, 🌐 Django, 🟩 Node.js, 🔌 Express
+
 Data Tools: 📊 Power BI, 📈 Tableau, 📊 SPSS, 📔 Jupyter Notebook, ☁️ Google Colab
+
 Specializations: Data Visualization, Machine Learning, Web Development, Project Management, ERP Systems
 
 🚀 Key Research and Projects
