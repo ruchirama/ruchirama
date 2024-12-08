@@ -174,6 +174,16 @@ With over 4 years of expertise in the Apparel & Textile industry, I combine adva
   </a>
 </div>
 
+<!-- Data Visualization Tools -->
+<h4>Data Visualization Tools</h4>
+<div align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Tableau_Logo.svg" alt="Tableau" width="40" height="40"/>
+  </a>
+</div>
 
 ### Specializations:
 - Data Visualization
