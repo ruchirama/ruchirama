@@ -6,9 +6,7 @@
       </a>
     </div>
 
-    <!-- Main Heading -->
-    <h1 data-aos="fade-up">👋 Hi there! I’m <a href="https://github.com/ruchirama">Ruchira Madushan (@ruchirama)</a></h1>
-  </div>
+# <h1 align="center">👋 Hi there! I’m <a href="https://github.com/ruchirama">Ruchira Madushan (@ruchirama)</a></h1>
 
 
 <p align="center">
