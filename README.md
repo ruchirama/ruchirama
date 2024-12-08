@@ -1,8 +1,14 @@
-<div align="left">
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
-    <img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-47.gif" alt="Amplify" width="100" height="100"/>
-  </a>
-<h1 align="center" data-aos="fade-up">👋 Hi there! I’m <a href="https://github.com/ruchirama">Ruchira Madushan (@ruchirama)</a></h1>
+<div class="container">
+    <!-- GIF with Link -->
+    <div class="gif-container" data-aos="zoom-in">
+      <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+        <img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-47.gif" alt="Amplify" width="500" height="500"/>
+      </a>
+    </div>
+
+    <!-- Main Heading -->
+    <h1 data-aos="fade-up">👋 Hi there! I’m <a href="https://github.com/ruchirama">Ruchira Madushan (@ruchirama)</a></h1>
+  </div>
 
 
 <p align="center">
