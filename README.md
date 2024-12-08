@@ -178,7 +178,7 @@ With over 4 years of expertise in the Apparel & Textile industry, I combine adva
 <h4>Data Visualization Tools</h4>
 <div align="left">
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4e/Power_BI_Logo.svg](https://ml2quantum.com/wp-content/uploads/2020/05/Microsoft-Power-BI-Symbol.png)" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Tableau_Logo.svg" alt="Tableau" width="40" height="40"/>
