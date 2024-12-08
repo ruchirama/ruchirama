@@ -181,7 +181,7 @@ With over 4 years of expertise in the Apparel & Textile industry, I combine adva
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Tableau_Logo.svg" alt="Tableau" width="40" height="40"/>
+    <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="Tableau" width="40" height="40"/>
   </a>
 </div>
 
