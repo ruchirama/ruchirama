@@ -1,50 +1,36 @@
-<div style="text-align: center;">
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/f151c26132ecde4de6f2cc63f288b20ebfb065536c1173fbfc3daa124cb77531/68747470733a2f2f7777772e736172646f6e79782e696e2f7468656d65732f696d616765732f736f6674776172652d646576656c6f706d656e742f736172646f6e79782d736f667477617265646576656c6f706d656e743030312e676966" alt="Amplify" width="563" height="500"/>
-  </a>
-</div>
-
-  <!-- Right-side Text -->
-  <div>
-    <h1 style="font-size: 2rem; margin: 0;">👋 Hi there!</h1>
-    <h2 style="font-size: 1.5rem; margin: 0;">I’m <a href="https://github.com/ruchirama" style="color: #0073e6;">Ruchira Madushan (@ruchirama)</a></h2>
-  </div>
-</div>
-
+<h1 align="center"> 👋 Hi there! I’m <a href="https://github.com/ruchirama" target="_blank" rel="noreferrer">@ruchirama</a> (Ruchira Madushan)</h1>
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-%F0%9F%92%8A-blue" alt="Data Analyst">
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/f151c26132ecde4de6f2cc63f288b20ebfb065536c1173fbfc3daa124cb77531/68747470733a2f2f7777772e736172646f6e79782e696e2f7468656d65732f696d616765732f736f6674776172652d646576656c6f706d656e742f736172646f6e79782d736f667477617265646576656c6f706d656e743030312e676966" alt="Amplify" width="563" height="500">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analyst-%F0%9F%92%AA-blue" alt="Data Analyst">
   <img src="https://img.shields.io/badge/Business%20Intelligence-%F0%9F%92%BB-orange" alt="Business Intelligence">
   <img src="https://img.shields.io/badge/Fabric%20Technologist-%F0%9F%91%94-green" alt="Fabric Technologist">
 </p>
 
-## 📊 Data Analyst & Business Intelligence Enthusiast | 💻 Web Developer | 👔 Fabric Technologist
+<h2>📊 Data Analyst & Business Intelligence Enthusiast | 💻 Web Developer | 👔 Fabric Technologist</h2>
 
-With over 4 years of expertise in the Apparel & Textile industry, I combine advanced skills in AI, Data Analytics, and Business Intelligence to drive innovation and efficiency in the fashion and manufacturing sectors. I’m passionate about creating sustainable, tech-driven solutions that optimize both digital and physical processes.
+<p>With over 4 years of expertise in the Apparel & Textile industry, I combine advanced skills in AI, Data Analytics, and Business Intelligence to drive innovation and efficiency in the fashion and manufacturing sectors. I'm passionate about creating sustainable, tech-driven solutions that optimize both digital and physical processes.</p>
 
----
+<h2>👀 About Me</h2>
 
-## 👀 About Me
-
-<div style="animation: fadeIn 2s ease-in;">
-  <p>🌱 <strong>Currently Learning:</strong> Completing my Master’s in Information Technology at the Kyoto College of Graduate Studies with a focus on AI-powered web applications and the future of digital experiences.</p>
-  
-  <p>💞️ <strong>Looking to Collaborate On:</strong> Projects in smart textiles, sustainable fashion tech, AI-driven forecasting, and data-driven applications.</p>
-  
-  <p>📫 <strong>Get in Touch:</strong>  
-    <a href="mailto:haruchira@gmail.com">Email</a> |  
+<ul>
+  <li>🌱 <strong>Currently Learning:</strong> Completing my Master's in Information Technology at the Kyoto College of Graduate Studies with a focus on AI-powered web applications and the future of digital experiences.</li>
+  <li>💞️ <strong>Looking to Collaborate On:</strong> Projects in smart textiles, sustainable fashion tech, AI-driven forecasting, and data-driven applications.</li>
+  <li>📫 <strong>Get in Touch:</strong> 
+    <a href="mailto:haruchira@gmail.com">Email</a> | 
     <a href="https://www.linkedin.com/in/ruchira-madushan">LinkedIn</a>
-  </p>
+  </li>
+  <li>😄 <strong>Pronouns:</strong> He/Him</li>
+  <li>⚡ <strong>Fun Fact:</strong> I developed a <strong>Smart Cycling Jacket</strong> with embedded GPS, LED signals, and hand sensors for improved cyclist safety! 🚴💡</li>
+</ul>
 
-  <p>😄 <strong>Pronouns:</strong> He/Him.</p>
-
-  <p>⚡ <strong>Fun Fact:</strong> I developed a <strong>Smart Cycling Jacket</strong> with embedded GPS, LED signals, and hand sensors for improved cyclist safety! 🚴💡</p>
-</div>
-
----
-
-## 💼 Skills & Technologies
+<h2>💼 Skills & Technologies</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -198,44 +184,52 @@ With over 4 years of expertise in the Apparel & Textile industry, I combine adva
   </a>
 </div>
 
-### Specializations:
-- Data Visualization
-- Machine Learning
-- Web Development
-- Project Management
-- ERP Systems
+<h2>🚀 Key Research and Projects</h2>
 
----
+<details>
+  <summary><strong>🌐 Future of Web Development with AI</strong></summary>
+  <p>Researching AI-driven web development trends with a focus on <strong>React</strong> and <strong>Next.js</strong> for building adaptive, responsive web applications that predict user needs in real-time.</p>
+</details>
 
-## 🚀 Key Research and Projects
+<details>
+  <summary><strong>📖 Dynamic Textile Library Management System</strong></summary>
+  <p>Developed a library management system for textiles using <strong>Next.js</strong> and <strong>Express.js</strong>. This app enables professionals to digitally catalog fabrics, track inventory, and streamline sourcing.</p>
+</details>
 
-### 🌐 **Future of Web Development with AI**  
-Researching AI-driven web development trends with a focus on **React** and **Next.js** for building adaptive, responsive web applications that predict user needs in real-time.
+<details>
+  <summary><strong>⚙️ Production Efficiency Analysis Web App</strong></summary>
+  <p>Built a web app using <strong>Django</strong> and <strong>Python</strong> to monitor production efficiency in garment factories, providing real-time data insights to improve workflow optimization.</p>
+</details>
 
-### 📖 **Dynamic Textile Library Management System**  
-Developed a library management system for textiles using **Next.js** and **Express.js**. This app enables professionals to digitally catalog fabrics, track inventory, and streamline sourcing.
+<details>
+  <summary><strong>📊 Fashion Forecasting Interactive Dashboard</strong></summary>
+  <p>Created a predictive dashboard with <strong>React</strong>, <strong>Power BI</strong>, and <strong>Tableau</strong> to visualize fashion trends, enabling data-driven decisions on materials and design.</p>
+</details>
 
-### ⚙️ **Production Efficiency Analysis Web App**  
-Built a web app using **Django** and **Python** to monitor production efficiency in garment factories, providing real-time data insights to improve workflow optimization.
+<details>
+  <summary><strong>🚴 Smart Cycling Jacket with Embedded Sensors</strong></summary>
+  <p>Designed a wearable tech jacket for cyclists with <strong>JavaScript-powered sensors</strong>, LED lights, and <strong>GPS tracking</strong>, showcasing my expertise in wearable technology and user-centered design.</p>
+</details>
 
-### 📊 **Fashion Forecasting Interactive Dashboard**  
-Created a predictive dashboard with **React**, **Power BI**, and **Tableau** to visualize fashion trends, enabling data-driven decisions on materials and design.
+<h2>🔍 Research Interests</h2>
 
-### 🚴 **Smart Cycling Jacket with Embedded Sensors**  
-Designed a wearable tech jacket for cyclists with **JavaScript-powered sensors**, LED lights, and **GPS tracking**, showcasing my expertise in wearable technology and user-centered design.
+- 🧵 Textile & Apparel Innovations
+- 🌍 Sustainable Manufacturing Practices
+- 💡 AI & Machine Learning in Fashion
+- 🖥️ Web Technologies for E-commerce
+- 📈 Predictive Modeling in Consumer Trends
+- 🌱 Green Manufacturing & Resource Efficiency
 
----
+<h2>🚀 Let's Connect and Innovate! 🌟</h2>
 
-## 🔍 Research Interests
+<p>Feel free to reach out for collaborations or just to chat about the latest in tech and fashion!</p>
 
-- 🧵 **Textile & Apparel Innovations**
-- 🌍 **Sustainable Manufacturing Practices**
-- 💡 **AI & Machine Learning in Fashion**
-- 🖥️ **Web Technologies for E-commerce**
-- 📈 **Predictive Modeling in Consumer Trends**
-- 🌱 **Green Manufacturing & Resource Efficiency**
-
----
-
-## 🚀 Let’s Connect and Innovate! 🌟
+<p align="center">
+  <a href="https://github.com/ruchirama" target="_blank">
+    <img src="https://img.shields.io/github/followers/ruchirama?label=Follow&style=social" alt="GitHub Follow">
+  </a>
+  <a href="https://twitter.com/ruchirama" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/ruchirama?style=social" alt="Twitter Follow">
+  </a>
+</p>
 
