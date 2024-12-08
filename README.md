@@ -1,45 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Animated Greeting</title>
-  <style>
-    @keyframes slideIn {
-      0% {
-        transform: translateX(-100%);
-        opacity: 0;
-      }
-      100% {
-        transform: translateX(0);
-        opacity: 1;
-      }
-    }
+![Animated Greeting](https://path_to_your_gif.gif](https://www.icegif.com/wp-content/uploads/2023/09/icegif-47.gif )
+👋 Hi there! I’m <a href="https://github.com/ruchirama" target="_blank" rel="noopener noreferrer">Ruchira Madushan (@ruchirama)</a>
 
-    h1 {
-      font-size: 2.5rem;
-      color: #333;
-      text-align: center;
-      animation: slideIn 2s ease-out;
-    }
-
-    h1 a {
-      color: #007bff;
-      text-decoration: none;
-      transition: color 0.3s;
-    }
-
-    h1 a:hover {
-      color: #0056b3;
-    }
-  </style>
-</head>
-<body>
-  <h1 align="center">
-    👋 Hi there! I’m <a href="https://github.com/ruchirama" target="_blank" rel="noopener noreferrer">Ruchira Madushan (@ruchirama)</a>
-  </h1>
-</body>
-</html>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analyst-%F0%9F%92%8A-blue" alt="Data Analyst">
