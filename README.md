@@ -1,5 +1,8 @@
-![Animated Greeting](https://path_to_your_gif.gif](https://www.icegif.com/wp-content/uploads/2023/09/icegif-47.gif )
-👋 Hi there! I’m <a href="https://github.com/ruchirama" target="_blank" rel="noopener noreferrer">Ruchira Madushan (@ruchirama)</a>
+<div align="left">
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-47.gif" alt="Amplify" width="100" height="100"/>
+  </a>
+<h1 align="center" data-aos="fade-up">👋 Hi there! I’m <a href="https://github.com/ruchirama">Ruchira Madushan (@ruchirama)</a></h1>
 
 
 <p align="center">
