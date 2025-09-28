@@ -15,7 +15,7 @@
 
 <h2>📊 Data Analyst & Business Intelligence Enthusiast | 💻 Web App Developer | 👔 AI Generalist </h2>
 
-<p>With over 4 years of expertise in the Apparel & Textile industry, I combine advanced skills in AI, Data Analytics, and Business Intelligence to drive innovation and efficiency in the fashion and manufacturing sectors. I'm passionate about creating sustainable, tech-driven solutions that optimize both digital and physical processes.</p>
+<p>With over 5 years of expertise in the Business Intelligence and Analyst, I combine advanced skills in AI, Data Analytics, and Business Intelligence to drive innovation and efficiency in the fashion and manufacturing sectors. I'm passionate about creating sustainable, tech-driven solutions that optimize both digital and physical processes.</p>
 
 <h2>👀 About Me</h2>
 
