@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Fabric%20Technologist-%F0%9F%91%94-green" alt="Fabric Technologist">
 </p>
 
-<h2>📊 Data Analyst & Business Intelligence Enthusiast | 💻 Web Developer | 👔 Fabric Technologist</h2>
+<h2>📊 Data Analyst & Business Intelligence Enthusiast | 💻 Web App Developer | 👔 AI Generalist </h2>
 
 <p>With over 4 years of expertise in the Apparel & Textile industry, I combine advanced skills in AI, Data Analytics, and Business Intelligence to drive innovation and efficiency in the fashion and manufacturing sectors. I'm passionate about creating sustainable, tech-driven solutions that optimize both digital and physical processes.</p>
 
