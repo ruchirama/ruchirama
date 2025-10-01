@@ -1,7 +1,7 @@
 <!-- Hero Section -->
 <div align="center">
   <h1>👋 Hi, I'm Ruchira Madushan</h1>
-  <p>Data Analyst • Business Intelligence • AI Generalist • Web App Developer</p>
+  <p>Data Analyst • Business Intelligence • Project Manager • AI Generalist • Web App Developer</p>
   
   <div style="margin: 2rem 0;">
     <img src="https://camo.githubusercontent.com/f151c26132ecde4de6f2cc63f288b20ebfb065536c1173fbfc3daa124cb77531/68747470733a2f2f7777772e736172646f6e79782e696e2f7468656d65732f696d616765732f736f6674776172652d646576656c6f706d656e742f736172646f6e79782d736f667477617265646576656c6f706d656e743030312e676966" 
