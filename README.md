@@ -75,7 +75,7 @@ IoT-enabled safety wearable with GPS tracking and hand-gesture controlled LED si
 
 **BSc Financial Engineering** - University of Colombo, Sri Lanka (2017-2020)
 
-**BSc Textile & Clothing Technology** - University of Moratuwa, Sri Lanka (2015-2019)
+**Textile & Clothing Technology** - University of Moratuwa, Sri Lanka (2015-2019)
 
 ---
 
