@@ -86,7 +86,7 @@
 
 #### 🤖 AI-Driven Supply Chain Transformation
 **Tech Stack:** `Python` `Machine Learning` `AI Visualization`  
-**Status:** 📝 Under Review - Journal of Applied Computer Science | **Year:** 2024
+**Year:** 2024
 
 **Key Features:**
 - Predictive analytics for supply chain optimization
@@ -100,7 +100,7 @@
 
 #### ⚙️ Production Efficiency Analysis
 **Tech Stack:** `Tableau` `SQL` `Production Analytics`  
-**Status:** 📝 Under Review - Journal of Applied Engineering Science | **Year:** 2021
+**Year:** 2021
 
 **Key Features:**
 - Operational efficiency optimization
@@ -114,7 +114,7 @@
 
 #### 👥 Labor Turnover Analysis
 **Tech Stack:** `Python` `Plotly` `HR Analytics`  
-**Status:** 📝 Under Review - Journal of Applied Engineering Science | **Year:** 2019
+**Year:** 2019
 
 **Key Features:**
 - Root cause analysis of employee turnover
@@ -130,7 +130,7 @@
 
 #### 📚 Dynamic Textile Library System
 **Tech Stack:** `Next.js` `Express.js` `MongoDB`  
-**Status:** ✅ Production Ready | **Year:** 2023
+**Year:** 2023
 
 **Key Features:**
 - Digital fabric cataloging platform
@@ -144,7 +144,7 @@
 
 #### 🎯 Production Dashboard Web App
 **Tech Stack:** `Django` `Python` `Power BI` `PostgreSQL`  
-**Status:** ✅ Deployed | **Year:** 2022
+**Year:** 2022
 
 **Key Features:**
 - Real-time factory monitoring
@@ -158,7 +158,7 @@
 
 #### 📈 Fashion Forecasting Platform
 **Tech Stack:** `React` `Tableau` `Power BI` `REST API`  
-**Status:** ✅ Active | **Year:** 2023
+**Year:** 2023
 
 **Key Features:**
 - Trend prediction algorithms
@@ -174,7 +174,7 @@
 
 #### 🚴 Smart Cycling Jacket
 **Tech Stack:** `IoT` `GPS` `LED Systems` `JavaScript` `Arduino`  
-**Status:** ✅ Prototype Completed | **Year:** 2018
+**Year:** 2018
 
 **Key Features:**
 - Embedded safety sensors
@@ -190,7 +190,8 @@
 
 #### 🎓 Sewing Operators Training System
 **Tech Stack:** `Power BI` `Data Analysis` `Excel`  
-**Status:** ✅ Implemented at MAS Holdings | **Year:** 2018
+**Year:** 2018
+✅ Implemented at MAS Holdings
 
 **Key Features:**
 - Enhanced training curriculum
@@ -206,7 +207,7 @@
 
 #### 🧪 Formaldehyde Testing System
 **Tech Stack:** `Quality Control` `Testing Equipment` `Data Analysis`  
-**Status:** ✅ Research Completed | **Year:** 2019
+**Year:** 2019
 
 **Key Features:**
 - Testing methodology development
@@ -220,7 +221,7 @@
 
 #### 🔗 Garment Bonding & Applications
 **Tech Stack:** `Material Science` `Manufacturing Tech`  
-**Status:** ✅ Research Published | **Year:** 2019
+**Year:** 2019
 
 **Key Features:**
 - Advanced bonding techniques
@@ -275,18 +276,18 @@
 
 ## 📚 Publications
 
-### 📄 Journal Articles (Under Review)
+### 📄 Journal Articles 
 
 1. **AI-Driven Supply Chain Transformation: Trends and Future Predictions**  
-   *Journal of Applied Computer Science* - 2024  
+   2024  
    Exploration of AI applications in supply chain management with emphasis on predictive analytics and automation
 
 2. **Analyzing Factors Affecting Production Efficiency of Apparel Industry**  
-   *Journal of Applied Engineering Science* - 2021  
+   2021  
    Comprehensive analysis of operational, technological, and human resource factors
 
 3. **Analysis of High Labor Turnover in Garment Industry - Sri Lanka**  
-   *Journal of Applied Engineering Science* - 2019  
+   2019  
    In-depth study examining root causes and impacts of labor turnover
 
 ---
