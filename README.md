@@ -1,29 +1,17 @@
-```html
-<!-- Hero Section -->
-<div align="center">
-  <h1>👋 Hi, I'm Ruchira Madushan</h1>
-  <p><strong>Business Intelligence Analyst • Project Manager • Web App Developer</strong></p>
-  <p>Apparel & Textile Industry Specialist • AI Generalist</p>
-  
-  <div style="margin: 2rem 0;">
-    <img src="https://camo.githubusercontent.com/f151c26132ecde4de6f2cc63f288b20ebfb065536c1173fbfc3daa124cb77531/68747470733a2f2f7777772e736172646f6e79782e696e2f7468656d65732f696d616765732f736f6674776172652d646576656c6f706d656e742f736172646f6e79782d736f667477617265646576656c6f706d656e743030312e676966" 
-         alt="Developer Animation" 
-         width="300" 
-         style="border-radius: 12px;">
-  </div>
+# 👋 Hi, I'm Ruchira Madushan
 
-  <!-- Quick Links -->
-  <p>
-    <a href="mailto:haruchira@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/ruchira-madushan">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/ruchirama">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </p>
+<div align="center">
+
+**Business Intelligence Analyst • Project Manager • Web App Developer**
+
+*Apparel & Textile Industry Specialist • AI Generalist*
+
+<img src="https://camo.githubusercontent.com/f151c26132ecde4de6f2cc63f288b20ebfb065536c1173fbfc3daa124cb77531/68747470733a2f2f7777772e736172646f6e79782e696e2f7468656d65732f696d616765732f736f6674776172652d646576656c6f706d656e742f736172646f6e79782d736f667477617265646576656c6f706d656e743030312e676966" alt="Developer Animation" width="300">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haruchira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchira-madushan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruchirama)
+
 </div>
 
 ---
@@ -43,153 +31,62 @@
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td width="50%">
+| Degree | Institution | Period | Location |
+|--------|------------|--------|----------|
+| 🎓 **Master of Science - IT** | Kyoto College of Graduate Studies | 2022-2024 | Japan |
+| 📊 **Master of Business Studies** | University of Colombo | 2021-2022 | Sri Lanka |
+| 💰 **BSc Financial Engineering** | University of Colombo | 2017-2020 | Sri Lanka |
+| 🧵 **Textile & Clothing Technology** | University of Moratuwa | 2015-2019 | Sri Lanka |
 
-### 🎓 Master of Science - IT
-**Kyoto College of Graduate Studies**  
-*2022-2024 | Japan*
-
-- AI-Driven Supply Chain Research
-- Machine Learning & Data Science
-- Enterprise Software Development
-- Leadership & Business Communication
-
-</td>
-<td width="50%">
-
-### 📊 Master of Business Studies
-**University of Colombo**  
-*2021-2022 | Sri Lanka*
-
-- Strategic Management
-- Production Efficiency Analysis
-- International Business
-- Quantitative Analysis
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 BSc Financial Engineering
-**University of Colombo**  
-*2017-2020 | Sri Lanka*
-
-- Quantitative Finance & Modeling
-- Corporate Finance & Investment
-- Portfolio Management
-- Financial Risk Modeling
-
-</td>
-<td width="50%">
-
-### 🧵 Textile & Clothing Technology
-**University of Moratuwa**  
-*2015-2019 | Sri Lanka*
-
-- Fiber Science & Fabric Technology
-- Quality Control & Testing
-- Production Management
-- Smart Textiles Innovation
-
-</td>
-</tr>
-</table>
+### 🎯 Academic Focus Areas
+- **IT:** AI-Driven Supply Chain, Machine Learning & Data Science, Enterprise Software Development
+- **Business:** Strategic Management, Production Efficiency Analysis, International Business
+- **Finance:** Quantitative Finance, Portfolio Management, Financial Risk Modeling
+- **Textile:** Fiber Science, Quality Control, Smart Textiles Innovation
 
 ---
 
 ## 🛠️ Technical Expertise
 
-<table>
-<tr>
-  <td valign="top" width="33%">
-
 ### 📊 Business Intelligence
-<div align="center">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</div>
-
-  </td>
-  <td valign="top" width="33%">
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 🤖 AI & Data Science
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</div>
-
-  </td>
-  <td valign="top" width="33%">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### 💻 Web Development
-<div align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</div>
-
-  </td>
-</tr>
-
-<tr>
-  <td valign="top" width="33%">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-<div align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</div>
-
-  </td>
-  <td valign="top" width="33%">
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🗄️ Databases
-<div align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>
-
-  </td>
-  <td valign="top" width="33%">
-
-### 📈 Big Data & Analytics
-<div align="center">
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-<img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-  </td>
-</tr>
-</table>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects & Research
 
-### 📊 Business Intelligence & Analytics
-
-<table>
-<tr>
-<td width="50%">
+### 📊 Business Intelligence & Analytics Projects
 
 #### 🤖 AI-Driven Supply Chain Transformation
 **Tech Stack:** `Python` `Machine Learning` `AI Visualization`  
-**Status:** 📝 Under Review - Journal of Applied Computer Science  
-**Year:** 2024
+**Status:** 📝 Under Review - Journal of Applied Computer Science | **Year:** 2024
 
 **Key Features:**
 - Predictive analytics for supply chain optimization
@@ -199,13 +96,11 @@
 
 **Impact:** Research contribution to AI applications in supply chain management
 
-</td>
-<td width="50%">
+---
 
 #### ⚙️ Production Efficiency Analysis
 **Tech Stack:** `Tableau` `SQL` `Production Analytics`  
-**Status:** 📝 Under Review - Journal of Applied Engineering Science  
-**Year:** 2021
+**Status:** 📝 Under Review - Journal of Applied Engineering Science | **Year:** 2021
 
 **Key Features:**
 - Operational efficiency optimization
@@ -215,16 +110,11 @@
 
 **Impact:** Identified key factors affecting apparel production efficiency
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 #### 👥 Labor Turnover Analysis
 **Tech Stack:** `Python` `Plotly` `HR Analytics`  
-**Status:** 📝 Under Review - Journal of Applied Engineering Science  
-**Year:** 2019
+**Status:** 📝 Under Review - Journal of Applied Engineering Science | **Year:** 2019
 
 **Key Features:**
 - Root cause analysis of employee turnover
@@ -234,13 +124,13 @@
 
 **Impact:** Comprehensive study on Sri Lankan garment industry workforce
 
-</td>
-<td width="50%">
+---
+
+### 💻 Web Applications
 
 #### 📚 Dynamic Textile Library System
 **Tech Stack:** `Next.js` `Express.js` `MongoDB`  
-**Status:** ✅ Production Ready  
-**Year:** 2023
+**Status:** ✅ Production Ready | **Year:** 2023
 
 **Key Features:**
 - Digital fabric cataloging platform
@@ -250,20 +140,11 @@
 
 **Impact:** Streamlined textile material management for professionals
 
-</td>
-</tr>
-</table>
-
-### 💻 Web Applications
-
-<table>
-<tr>
-<td width="50%">
+---
 
 #### 🎯 Production Dashboard Web App
 **Tech Stack:** `Django` `Python` `Power BI` `PostgreSQL`  
-**Status:** ✅ Deployed  
-**Year:** 2022
+**Status:** ✅ Deployed | **Year:** 2022
 
 **Key Features:**
 - Real-time factory monitoring
@@ -273,13 +154,11 @@
 
 **Impact:** Improved production visibility and decision-making speed
 
-</td>
-<td width="50%">
+---
 
 #### 📈 Fashion Forecasting Platform
 **Tech Stack:** `React` `Tableau` `Power BI` `REST API`  
-**Status:** ✅ Active  
-**Year:** 2023
+**Status:** ✅ Active | **Year:** 2023
 
 **Key Features:**
 - Trend prediction algorithms
@@ -289,20 +168,13 @@
 
 **Impact:** Enhanced trend analysis for fashion industry stakeholders
 
-</td>
-</tr>
-</table>
+---
 
 ### 🔬 Innovation & Research Projects
 
-<table>
-<tr>
-<td width="50%">
-
 #### 🚴 Smart Cycling Jacket
 **Tech Stack:** `IoT` `GPS` `LED Systems` `JavaScript` `Arduino`  
-**Status:** ✅ Prototype Completed  
-**Year:** 2018
+**Status:** ✅ Prototype Completed | **Year:** 2018
 
 **Key Features:**
 - Embedded safety sensors
@@ -311,17 +183,14 @@
 - Wearable technology integration
 - Bluetooth connectivity
 
-**Impact:** Enhanced cyclist safety through innovative wearable technology
-
+**Impact:** Enhanced cyclist safety through innovative wearable technology  
 **Awards:** Featured in University Innovation Showcase
 
-</td>
-<td width="50%">
+---
 
 #### 🎓 Sewing Operators Training System
 **Tech Stack:** `Power BI` `Data Analysis` `Excel`  
-**Status:** ✅ Implemented at MAS Holdings  
-**Year:** 2018
+**Status:** ✅ Implemented at MAS Holdings | **Year:** 2018
 
 **Key Features:**
 - Enhanced training curriculum
@@ -330,20 +199,14 @@
 - Career pathway optimization
 - Progress visualization
 
-**Impact:** Improved operator skill levels and productivity
-
+**Impact:** Improved operator skill levels and productivity  
 **Recognition:** Contributed to workforce development initiatives
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 #### 🧪 Formaldehyde Testing System
 **Tech Stack:** `Quality Control` `Testing Equipment` `Data Analysis`  
-**Status:** ✅ Research Completed  
-**Year:** 2019
+**Status:** ✅ Research Completed | **Year:** 2019
 
 **Key Features:**
 - Testing methodology development
@@ -353,13 +216,11 @@
 
 **Impact:** Ensured textile safety standards compliance
 
-</td>
-<td width="50%">
+---
 
 #### 🔗 Garment Bonding & Applications
 **Tech Stack:** `Material Science` `Manufacturing Tech`  
-**Status:** ✅ Research Published  
-**Year:** 2019
+**Status:** ✅ Research Published | **Year:** 2019
 
 **Key Features:**
 - Advanced bonding techniques
@@ -369,15 +230,9 @@
 
 **Impact:** Contributed to modern textile manufacturing knowledge
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🎯 Core Competencies
-
-<div align="center">
 
 | 📊 Business Intelligence | 🔄 Supply Chain | 🎯 Project Management | 🌱 Sustainability |
 |:---:|:---:|:---:|:---:|
@@ -387,61 +242,34 @@
 | Data Visualization | Logistics Planning | Risk Management | Sustainable Practices |
 | SQL Optimization | Cost Reduction | Team Building | Carbon Footprint Reduction |
 
-</div>
-
 ---
 
-## 📜 Certifications & Professional Development
+## 📜 Certifications & Awards
 
-<table>
-<tr>
-<td width="50%">
+### 🎓 Professional Certifications
 
-### 🎓 Certifications
+- ✅ **Advanced Project Management** - *Innova Strategies* (March 2024)
+- ✅ **Research Ethics** - *Japan Society for the Promotion of Science* (July 2023)
+- ✅ **Object-Oriented Design** - *University of Alberta* (May 2023)
 
-#### Professional Certifications
-- ✅ **Advanced Project Management**  
-  *Innova Strategies* - March 2024
+### 🏅 Professional Designations
 
-- ✅ **Research Ethics**  
-  *Japan Society for the Promotion of Science* - July 2023
-
-- ✅ **Object-Oriented Design**  
-  *University of Alberta* - May 2023
-
-#### Professional Designations
-- 🏅 **Engineering Diplomate (EngDip)**  
-  *Engineering Council Sri Lanka* - 2022-Present
-
-- 🏅 **Associate Member**  
-  *Institution of Incorporated Engineers Sri Lanka* - 2022-Present
-
-</td>
-<td width="50%">
+- 🏅 **Engineering Diplomate (EngDip)** - *Engineering Council Sri Lanka* (2022-Present)
+- 🏅 **Associate Member** - *Institution of Incorporated Engineers Sri Lanka* (2022-Present)
 
 ### 🏆 Awards & Recognition
 
 #### Scholarships
-- 🥇 **Monbukagakusho Honors Scholarship**  
-  *Japanese Government* - 2023  
+- 🥇 **Monbukagakusho Honors Scholarship** - *Japanese Government* (2023)  
   Prestigious scholarship for academic excellence
-
-- 🎓 **JASSO Scholarship**  
-  *Japan Student Services Organization* - 2022  
+- 🎓 **JASSO Scholarship** - *Japan Student Services Organization* (2022)  
   Master's degree program support
 
 #### Industry Recognition
-- 🌱 **Best Sustainability Project**  
-  *Crystal Martin Group, Sri Lanka* - 2020  
+- 🌱 **Best Sustainability Project** - *Crystal Martin Group, Sri Lanka* (2020)  
   Leading sustainability initiative
-
-- 🌟 **Best Incoming Global Entrepreneur Team Member**  
-  *AIESEC LEAD CS 3.0 Conference* - 2017  
+- 🌟 **Best Incoming Global Entrepreneur Team Member** - *AIESEC LEAD CS 3.0 Conference* (2017)  
   Outstanding leadership and entrepreneurial skills
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -465,109 +293,60 @@
 
 ## 🔬 Research Interests
 
-<div align="center">
-
-```
-🧵 Smart Textiles & Wearable Tech  •  🌍 Sustainable Manufacturing  •  💡 AI in Supply Chain
-📊 Production Analytics & Optimization  •  🔄 Digital Transformation  •  📈 Predictive Modeling
-🎯 Quality Control Systems  •  🌱 Green Manufacturing  •  🤖 Machine Learning Applications
-```
-
-</div>
+🧵 Smart Textiles & Wearable Tech • 🌍 Sustainable Manufacturing • 💡 AI in Supply Chain  
+📊 Production Analytics & Optimization • 🔄 Digital Transformation • 📈 Predictive Modeling  
+🎯 Quality Control Systems • 🌱 Green Manufacturing • 🤖 Machine Learning Applications
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchirama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchirama&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" alt="GitHub Streak" height="165">
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchirama&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9" alt="Top Languages">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchirama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruchirama&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchirama&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9)
+
 </div>
 
 ---
 
-## 🌐 Professional Affiliations & Community Involvement
-
-<table>
-<tr>
-<td width="50%">
+## 🌐 Professional Affiliations
 
 ### 🏛️ Professional Memberships
 
-#### Engineering Institutions
-- **Associate Member**  
-  *Institution of Incorporated Engineers Sri Lanka*  
-  2022-Present  
-  Active engagement in engineering innovation and professional development
+- **Associate Member** - *Institution of Incorporated Engineers Sri Lanka* (2022-Present)
+- **Engineering Diplomate (EngDip)** - *Engineering Council Sri Lanka* (2022-Present)
+- **iGT Member** - *AIESEC Sri Lanka - Colombo South Local Committee* (2016-2018)
 
-- **Engineering Diplomate (EngDip)**  
-  *Engineering Council Sri Lanka*  
-  2022-Present  
-  Statutory regulatory body recognition for engineering professionals
+### 🗣️ Speaking & Community Engagement
 
-#### International Organizations
-- **iGT Member**  
-  *AIESEC Sri Lanka - Colombo South Local Committee*  
-  2016-2018  
-  International Growth Team contributing to global leadership development
-
-</td>
-<td width="50%">
-
-### 🗣️ Speaking & Events
-
-#### Conferences & Forums
-- **IGF Kyoto 2023**  
-  *18th Internet Governance Forum*  
-  October 2023, Kyoto, Japan  
+- **IGF Kyoto 2023** - *18th Internet Governance Forum* (October 2023)  
   Focus: AI, Cybersecurity, Data Governance, Digital Inclusion
-
-#### Professional Development
-- **Toastmasters Club**  
-  March 2022-Present  
-  Public speaking, leadership, and communication skills development
-
-#### Community Service
-- **Voluntary Teacher**  
-  *Government Schools, Sri Lanka*  
-  2015-2020  
-  Teaching ICT, Science, and Mathematics to enhance community literacy
-
-#### Sports & Leadership
-- **University Rowing Crew Member**  
-  *University of Moratuwa*  
-  2016-2018  
-  Team leadership and athletic excellence
-
-</td>
-</tr>
-</table>
+- **Toastmasters Club** - Public speaking and leadership (March 2022-Present)
+- **Voluntary Teacher** - *Government Schools, Sri Lanka* (2015-2020)  
+  Teaching ICT, Science, and Mathematics
+- **University Rowing Crew Member** - *University of Moratuwa* (2016-2018)
 
 ---
 
-## 🌍 Languages & Communication
+## 🌍 Languages
 
-<div align="center">
-
-| Language | Proficiency | Level | Usage |
-|:---:|:---:|:---:|:---:|
-| 🇬🇧 **English** | Full Professional | ⭐⭐⭐⭐⭐ | Business, Technical, Academic |
-| 🇱🇰 **Sinhalese** | Native | ⭐⭐⭐⭐⭐ | Native Speaker |
-| 🇯🇵 **Japanese** | Elementary | ⭐⭐ | Basic Communication |
-
-</div>
+| Language | Proficiency | Level |
+|:---:|:---:|:---:|
+| 🇬🇧 **English** | Full Professional | ⭐⭐⭐⭐⭐ |
+| 🇱🇰 **Sinhalese** | Native | ⭐⭐⭐⭐⭐ |
+| 🇯🇵 **Japanese** | Elementary | ⭐⭐ |
 
 ---
 
-## 💡 Current Focus & Expertise
+## 💡 Current Focus
 
 ```python
 professional_profile = {
-    "current_role": "Business Intelligence Analyst & Project Manager",
+    "current_role": "Business Intelligence Analyst, Project Manager &  Apparel & Textile Industry Specialist",
     
     "core_expertise": [
         "Supply Chain Analytics & Optimization",
@@ -593,81 +372,26 @@ professional_profile = {
         "databases": ["PostgreSQL", "MongoDB", "MS SQL", "SQLite"]
     },
     
-    "current_learning": [
-        "Advanced ML Models for Supply Chain",
-        "Cloud Architecture & Microservices",
-        "Sustainable Technology Solutions",
-        "Real-time Data Processing"
-    ],
-    
     "open_to_collaborate": [
         "Business Intelligence Consulting",
         "AI/ML Research Projects",
         "Sustainable Fashion Tech",
         "Supply Chain Optimization",
-        "Web Application Development",
-        "Academic Research Partnerships"
+        "Web Application Development"
     ],
     
     "achievements": {
         "procurement_efficiency": "25% reduction in lead times",
         "inventory_accuracy": "40% improvement",
         "delivery_performance": "97% on-time delivery rate",
-        "sustainability": "100% eco-friendly procurement",
-        "publications": "3 journal articles under review"
+        "sustainability": "100% eco-friendly procurement"
     }
 }
 ```
 
 ---
 
-## 🎯 Professional Services Offered
-
-<table>
-<tr>
-<td width="33%">
-
-### 📊 Business Intelligence
-- Dashboard Development
-- KPI Design & Implementation
-- Data Visualization
-- Predictive Analytics
-- Performance Reporting
-- Business Process Optimization
-
-</td>
-<td width="33%">
-
-### 🎯 Project Management
-- Agile Project Delivery
-- Stakeholder Management
-- Risk Assessment & Mitigation
-- Resource Optimization
-- Cross-functional Team Leadership
-- Process Improvement
-
-</td>
-<td width="33%">
-
-### 💻 Technical Solutions
-- Web Application Development
-- AI/ML Integration
-- Database Design
-- Cloud Solutions
-- API Development
-- System Architecture
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Industry Impact & Metrics
-
-<div align="center">
-
-### Key Performance Indicators
+## 📈 Industry Impact
 
 | Metric | Achievement | Impact Area |
 |:---|:---:|:---|
@@ -678,35 +402,21 @@ professional_profile = {
 | 👥 Training Programs | **500+** | Workforce Development |
 | 📱 Digital Solutions | **5+** | Technology Innovation |
 
-</div>
-
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Let's Connect!
 
 <div align="center">
 
-### 📬 Get In Touch
-
-<p>
-  <a href="mailto:haruchira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/ruchira-madushan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/ruchirama">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haruchira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchira-madushan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruchirama)
 
 ### 🌟 Open to Opportunities
 
-```
-💼 Business Intelligence Consulting  |  🤝 Research Collaborations
-🚀 Tech Innovation Projects  |  📊 Data Analytics Partnerships
-🌱 Sustainable Fashion Tech  |  🎓 Academic Collaborations
-```
+💼 Business Intelligence Consulting | 🤝 Research Collaborations  
+🚀 Tech Innovation Projects | 📊 Data Analytics Partnerships  
+🌱 Sustainable Fashion Tech | 🎓 Academic Collaborations
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruchirama&color=blueviolet&style=for-the-badge)
 
@@ -721,10 +431,9 @@ professional_profile = {
 **⭐ If you find my work interesting, consider following or starring my repositories!**
 
 </div>
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
-```
+
 
