@@ -11,7 +11,7 @@
 
 ## 🎯 What I Do
 
-I specialize in **Business Intelligence**, **AI-driven analytics**, and **supply chain optimization** for the apparel industry. With 10+ years of experience and dual master's degrees in IT and Business, I bridge the gap between data and strategic decisions.
+I specialize in **Business Intelligence**, **AI-driven analytics**, **Project Manager** and **supply chain optimization** for the apparel industry. With 10+ years of experience and dual master's degrees in IT and Business, I bridge the gap between data and strategic decisions.
 
 ### Key Achievements
 - 📉 **25%** reduction in procurement lead times
