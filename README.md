@@ -14,7 +14,7 @@
 
 ## 💼 Professional Summary
 
-> **10+ years** of comprehensive expertise in textile & apparel industry, combining **Business Intelligence**, **Supply Chain Optimization**, and **AI-driven Digital Transformation**. Master's-educated in both **Information Technology** and **Business Studies** with proven track record of delivering measurable results.
+> **Business Intelligence**, **Supply Chain Optimization**, and **AI-driven Digital Transformation**. Master's-educated in both **Information Technology** and **Business Studies** with proven track record of delivering measurable results.
 
 ### 🎯 Key Achievements
 - 📉 **25%** reduction in procurement lead times
