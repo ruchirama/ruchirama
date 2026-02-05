@@ -290,23 +290,9 @@
 
 ## 🔬 Research Interests
 
-🧵 Smart Textiles & Wearable Tech • 🌍 Sustainable Manufacturing • 💡 AI in Supply Chain  
+🌍 Sustainable Manufacturing • 💡 AI in Supply Chain •🧵 Smart Textiles & Wearable Tech • 
 📊 Production Analytics & Optimization • 🔄 Digital Transformation • 📈 Predictive Modeling  
 🎯 Quality Control Systems • 🌱 Green Manufacturing • 🤖 Machine Learning Applications
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchirama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruchirama&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchirama&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9)
-
-</div>
 
 ---
 
