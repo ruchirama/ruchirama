@@ -2,9 +2,7 @@
 
 <div align="center">
 
-**Business Intelligence Analyst • Project Manager • Web App Developer**
-
-*Apparel & Textile Industry Specialist •  Materials Sourcing and Procurement Strategy • AI Generalist*
+**Business Transformation Leader | Business Intelligence Analyst | Project Manager | Web App Developer | AI Generalist**
 
 <img src="https://camo.githubusercontent.com/f151c26132ecde4de6f2cc63f288b20ebfb065536c1173fbfc3daa124cb77531/68747470733a2f2f7777772e736172646f6e79782e696e2f7468656d65732f696d616765732f736f6674776172652d646576656c6f706d656e742f736172646f6e79782d736f667477617265646576656c6f706d656e743030312e676966" alt="Developer Animation" width="300">
 
@@ -33,10 +31,10 @@
 
 | Degree | Institution | Period | Location |
 |--------|------------|--------|----------|
-| 🎓 **Master of Science - IT** | Kyoto College of Graduate Studies | 2022-2024 | Japan |
+| 🎓 **Master of Science - IT** | Kyoto College of Graduate Studies | 2023-2024 | Japan |
 | 📊 **Master of Business Studies** | University of Colombo | 2021-2022 | Sri Lanka |
 | 💰 **BSc Financial Engineering** | University of Colombo | 2017-2020 | Sri Lanka |
-| 🧵 **Textile & Clothing Technology** | University of Moratuwa | 2015-2019 | Sri Lanka |
+| 🧵 **Textile & Clothing Technology** | University of Moratuwa | 2016-2019 | Sri Lanka |
 
 ### 🎯 Academic Focus Areas
 - **IT:** AI-Driven Supply Chain, Machine Learning & Data Science, Enterprise Software Development
