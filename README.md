@@ -290,9 +290,7 @@
 
 ## 🔬 Research Interests
 
-🌍 Sustainable Manufacturing • 💡 AI in Supply Chain •🧵 Smart Textiles & Wearable Tech • 
-📊 Production Analytics & Optimization • 🔄 Digital Transformation • 📈 Predictive Modeling  
-🎯 Quality Control Systems • 🌱 Green Manufacturing • 🤖 Machine Learning Applications
+🌍 Sustainable Manufacturing • 💡 AI in Supply Chain •🧵 Smart Textiles & Wearable Tech • 📊 Production Analytics & Optimization • 🔄 Digital Transformation • 📈 Predictive Modeling • 🎯 Quality Control Systems • 🌱 Green Manufacturing • 🤖 Machine Learning Applications
 
 ---
 
